@@ -400,7 +400,7 @@ It allows business users to:
 
 The objective is not only to visualize data, but to make the data easier to use for **business analysis and decision-making**.
 
-# The project demonstrates my ability to take a business dataset through the complete analytics workflow:
+The project demonstrates my ability to take a business dataset through the complete analytics workflow:
 
-## Raw Data → Cleaning and preparing → Python Analysis + EDA → Power bi Visualization → Business Insights
+### Raw Data → Cleaning and preparing → Python Analysis + EDA → Power bi Visualization → Business Insights
 
